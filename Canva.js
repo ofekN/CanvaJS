@@ -1,5 +1,5 @@
 
-export default class Canva{
+class Canva{
 
     constructor(){
 
@@ -202,3 +202,5 @@ export default class Canva{
 
 
 }
+
+export {Canva};
