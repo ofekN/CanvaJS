@@ -1,2 +1,2 @@
 # CanvaJS
-*o*o*o*o*
+Small libary for 2D Canvas Games
